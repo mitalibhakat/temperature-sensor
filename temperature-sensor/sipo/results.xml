@@ -1,0 +1,6 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1735036107" />
+    <testcase name="test_sipo_with_latch" classname="test_sipo_with_latch" file="/home/saileshmishra164/venv/temperature-sensor/sipo/test_sipo_with_latch.py" lineno="21" time="0.00810861587524414" sim_time_ns="211.001" ratio_time="26021.82705980594" />
+  </testsuite>
+</testsuites>
